@@ -1,0 +1,7 @@
+/build/
+/dist/
+dicom2jpg/dicom2jpg.egg-info
+.pypirc
+/dicom2jpg.egg-info
+__pycache__
+\.idea
